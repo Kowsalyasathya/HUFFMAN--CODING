@@ -1,4 +1,4 @@
-# Huffman-Coding
+# EXP-11 Huffman-Coding
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
@@ -25,8 +25,8 @@ print the characters and its huffmancode
  
 ## Program:
 
-### DEVELOPED BY: KOWSALYA M
-### REGISTER NUMBER: 212222230069
+#### DEVELOPED BY: KOWSALYA M
+#### REGISTER NUMBER: 212222230069
 
 # Get the input String
 ```
